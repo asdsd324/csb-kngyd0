@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://asdsd324.github.io/csb-kngyd0/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://asdsd324.github.io/csb-kngyd0/static/js/main.0168420f.chunk.js",
+    "main.js.map": "https://asdsd324.github.io/csb-kngyd0/static/js/main.0168420f.chunk.js.map",
+    "runtime-main.js": "https://asdsd324.github.io/csb-kngyd0/static/js/runtime-main.1c5202c5.js",
+    "runtime-main.js.map": "https://asdsd324.github.io/csb-kngyd0/static/js/runtime-main.1c5202c5.js.map",
+    "static/js/2.7c7f52c7.chunk.js": "https://asdsd324.github.io/csb-kngyd0/static/js/2.7c7f52c7.chunk.js",
+    "static/js/2.7c7f52c7.chunk.js.map": "https://asdsd324.github.io/csb-kngyd0/static/js/2.7c7f52c7.chunk.js.map",
+    "index.html": "https://asdsd324.github.io/csb-kngyd0/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://asdsd324.github.io/csb-kngyd0/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.7c7f52c7.chunk.js.LICENSE.txt": "https://asdsd324.github.io/csb-kngyd0/static/js/2.7c7f52c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c5202c5.js",
+    "static/js/2.7c7f52c7.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.0168420f.chunk.js"
+  ]
+}
